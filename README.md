@@ -1,2 +1,8 @@
-## Material form my golang course
-feel free tocontribute to this repo
+## golang from scartch
+This repo contains utilities to work with files, json, and aws s3
+
+### Requirements:
+* go 1.11.5
+
+
+Feel free to contribute to this repo
